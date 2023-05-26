@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Avi Mondal</h1>
-<h3 align="center">A passionate competitive programmer and software engineer from Bangladesh.</h3>
+<h3 align="center">A passionate competitive programmer and project developer from Bangladesh.</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avi2027&label=Profile%20views&color=0e75b6&style=flat" alt="avi2027" /> </p>
 
